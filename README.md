@@ -1,4 +1,4 @@
-# 📊 Power BI Analytics Portfolio — CodeAlpha Internship
+# Power BI Analytics — CodeAlpha Internship (Ammar Abdelkabir AbdelQader)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Calculations-0078D4?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 CodeAlpha_Power_BI_Internship/
@@ -41,7 +41,7 @@ CodeAlpha_Power_BI_Internship/
 
 ---
 
-## 📈 Task 1 — Financial Health Dashboard
+##  Task 1 — Financial Health Dashboard
 
 ### Objective
 Convert raw SME ledger data into an executive-level financial intelligence dashboard that tracks revenue streams, cost structures, and profitability margins over time.
@@ -98,7 +98,7 @@ Budget vs Actual Variance =
 
 ---
 
-## 👥 Task 2 — Human Resources Analytics Dashboard
+##  Task 2 — Human Resources Analytics Dashboard
 
 ### Objective
 Equip HR leadership with a unified view of workforce health — tracking attrition risk, satisfaction-performance correlation, and recruitment cost forecasting.
@@ -159,7 +159,7 @@ Avg Tenure Days =
 
 ---
 
-## 🏢 Task 3 — Real Estate Market Trends Dashboard
+##  Task 3 — Real Estate Market Trends Dashboard
 
 ### Objective
 Aggregate geographic property data, pricing metrics, and market conditions to identify investment hotspots and yield opportunities across Egyptian real estate markets.
@@ -222,7 +222,7 @@ Investment Score =
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Usage |
 |------|-------|
@@ -234,7 +234,7 @@ Investment Score =
 
 ---
 
-## 🚀 How to Run the Dashboards
+##  How to Run the Dashboards
 
 1. **Install Power BI Desktop** — Download from [powerbi.microsoft.com](https://powerbi.microsoft.com/)
 2. **Clone this repository:**
@@ -246,8 +246,3 @@ Investment Score =
 5. Click **Refresh** to reload data and recalculate all measures
 
 ---
-
-## 📬 Connect
-
-- 🌐 CodeAlpha: [www.codealpha.tech](https://www.codealpha.tech)
-- 📧 services@codealpha.tech
