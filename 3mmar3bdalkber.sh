@@ -2,7 +2,7 @@
 git init
 
 git config user.name "3mmar3bdalkber"
-git config user.email "your.email@example.com"
+git config user.email "1234amarabdalkber@gmail.com@example.com"
 
 # STEP 3: Stage everything
 git add .
