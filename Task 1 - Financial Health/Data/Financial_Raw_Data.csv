@@ -1,0 +1,104 @@
+Date,Category,Sub_Category,Account,Amount,Type,Scenario
+2025-01-05,Revenue,Product Sales,Hardware,12000,Credit,Actual
+2025-01-10,Revenue,Product Sales,Software Licenses,8500,Credit,Actual
+2025-01-15,Revenue,Product Sales,Hardware,45000,Credit,Actual
+2025-01-18,Revenue,Service Revenue,Support Contracts,6000,Credit,Actual
+2025-01-20,Revenue,Service Revenue,Consulting,15000,Credit,Actual
+2025-01-22,COGS,Direct Labor,Contractors,12000,Debit,Actual
+2025-01-24,COGS,Materials,Raw Components,9500,Debit,Actual
+2025-01-25,Operating Expenses,Rent,Office Lease,3500,Debit,Actual
+2025-01-27,Operating Expenses,Salaries,Engineering Team,18000,Debit,Actual
+2025-01-28,Operating Expenses,Marketing,Digital Ads,2500,Debit,Actual
+2025-01-30,Operating Expenses,Utilities,Electricity & Web,1100,Debit,Actual
+2025-01-31,Operating Expenses,Admin,Office Supplies,450,Debit,Actual
+2025-02-05,Revenue,Product Sales,Hardware,22000,Credit,Actual
+2025-02-10,Revenue,Product Sales,Software Licenses,9200,Credit,Actual
+2025-02-15,Revenue,Product Sales,Hardware,48000,Credit,Actual
+2025-02-17,Revenue,Service Revenue,Support Contracts,6500,Credit,Actual
+2025-02-18,Revenue,Service Revenue,Consulting,16500,Credit,Actual
+2025-02-20,COGS,Direct Labor,Contractors,12500,Debit,Actual
+2025-02-21,COGS,Materials,Raw Components,10000,Debit,Actual
+2025-02-25,Operating Expenses,Rent,Office Lease,3500,Debit,Actual
+2025-02-26,Operating Expenses,Salaries,Engineering Team,18000,Debit,Actual
+2025-02-27,Operating Expenses,Salaries,Sales Team,12000,Debit,Actual
+2025-02-28,Operating Expenses,Utilities,Electricity & Web,1200,Debit,Actual
+2025-02-28,Operating Expenses,Marketing,Social Media,1800,Debit,Actual
+2025-03-05,Revenue,Product Sales,Hardware,18000,Credit,Actual
+2025-03-10,Revenue,Product Sales,Software Licenses,11000,Credit,Actual
+2025-03-15,Revenue,Product Sales,Hardware,52000,Credit,Actual
+2025-03-18,Revenue,Service Revenue,Support Contracts,7200,Credit,Actual
+2025-03-20,Revenue,Service Revenue,Consulting,14000,Credit,Actual
+2025-03-22,COGS,Direct Labor,Contractors,13000,Debit,Actual
+2025-03-23,COGS,Materials,Raw Components,11000,Debit,Actual
+2025-03-25,Operating Expenses,Rent,Office Lease,3500,Debit,Actual
+2025-03-26,Operating Expenses,Salaries,Engineering Team,18000,Debit,Actual
+2025-03-27,Operating Expenses,Salaries,Sales Team,12000,Debit,Actual
+2025-03-28,Operating Expenses,Marketing,Event Hosting,6000,Debit,Actual
+2025-03-30,Operating Expenses,Utilities,Electricity & Web,1350,Debit,Actual
+2025-04-01,Revenue,Product Sales,Hardware,24000,Credit,Actual
+2025-04-05,Revenue,Product Sales,Software Licenses,12500,Credit,Actual
+2025-04-10,Revenue,Service Revenue,Support Contracts,7800,Credit,Actual
+2025-04-15,Revenue,Product Sales,Hardware,55000,Credit,Actual
+2025-04-18,Revenue,Service Revenue,Consulting,18000,Credit,Actual
+2025-04-20,COGS,Direct Labor,Contractors,13500,Debit,Actual
+2025-04-21,COGS,Materials,Raw Components,11500,Debit,Actual
+2025-04-25,Operating Expenses,Rent,Office Lease,3700,Debit,Actual
+2025-04-26,Operating Expenses,Salaries,Engineering Team,19000,Debit,Actual
+2025-04-27,Operating Expenses,Salaries,Sales Team,12500,Debit,Actual
+2025-04-28,Operating Expenses,Marketing,Digital Ads,3200,Debit,Actual
+2025-04-30,Operating Expenses,Utilities,Electricity & Web,1100,Debit,Actual
+2025-05-05,Revenue,Product Sales,Hardware,28000,Credit,Actual
+2025-05-10,Revenue,Product Sales,Software Licenses,13000,Credit,Actual
+2025-05-12,Revenue,Service Revenue,Support Contracts,8200,Credit,Actual
+2025-05-15,Revenue,Product Sales,Hardware,58000,Credit,Actual
+2025-05-18,Revenue,Service Revenue,Consulting,19000,Credit,Actual
+2025-05-20,COGS,Direct Labor,Contractors,14000,Debit,Actual
+2025-05-21,COGS,Materials,Raw Components,12000,Debit,Actual
+2025-05-25,Operating Expenses,Rent,Office Lease,3700,Debit,Actual
+2025-05-26,Operating Expenses,Salaries,Engineering Team,19000,Debit,Actual
+2025-05-27,Operating Expenses,Salaries,Sales Team,13000,Debit,Actual
+2025-05-28,Operating Expenses,Marketing,Digital Ads,2800,Debit,Actual
+2025-05-30,Operating Expenses,Utilities,Electricity & Web,1250,Debit,Actual
+2025-06-05,Revenue,Product Sales,Hardware,30000,Credit,Actual
+2025-06-10,Revenue,Product Sales,Software Licenses,14500,Credit,Actual
+2025-06-12,Revenue,Service Revenue,Support Contracts,8500,Credit,Actual
+2025-06-15,Revenue,Product Sales,Hardware,61000,Credit,Actual
+2025-06-18,Revenue,Service Revenue,Consulting,22000,Credit,Actual
+2025-06-20,COGS,Direct Labor,Contractors,14500,Debit,Actual
+2025-06-21,COGS,Materials,Raw Components,12800,Debit,Actual
+2025-06-25,Operating Expenses,Rent,Office Lease,3700,Debit,Actual
+2025-06-26,Operating Expenses,Salaries,Engineering Team,19500,Debit,Actual
+2025-06-27,Operating Expenses,Salaries,Sales Team,13500,Debit,Actual
+2025-06-28,Operating Expenses,Marketing,Trade Show,8500,Debit,Actual
+2025-06-30,Operating Expenses,Utilities,Electricity & Web,1400,Debit,Actual
+2025-07-15,Revenue,Product Sales,Hardware,65000,Credit,Budget
+2025-07-20,Revenue,Service Revenue,Consulting,24000,Credit,Budget
+2025-07-18,Revenue,Service Revenue,Support Contracts,9000,Credit,Budget
+2025-07-25,Operating Expenses,Rent,Office Lease,3800,Debit,Budget
+2025-07-26,Operating Expenses,Salaries,Engineering Team,20000,Debit,Budget
+2025-07-27,Operating Expenses,Salaries,Sales Team,14000,Debit,Budget
+2025-07-28,COGS,Direct Labor,Contractors,15000,Debit,Budget
+2025-08-15,Revenue,Product Sales,Hardware,68000,Credit,Budget
+2025-08-20,Revenue,Service Revenue,Consulting,25000,Credit,Budget
+2025-08-18,Revenue,Service Revenue,Support Contracts,9500,Credit,Budget
+2025-08-25,Operating Expenses,Rent,Office Lease,3800,Debit,Budget
+2025-08-26,Operating Expenses,Salaries,Engineering Team,20000,Debit,Budget
+2025-08-28,COGS,Direct Labor,Contractors,15500,Debit,Budget
+2025-09-15,Revenue,Product Sales,Hardware,72000,Credit,Budget
+2025-09-20,Revenue,Service Revenue,Consulting,27000,Credit,Budget
+2025-09-25,Operating Expenses,Rent,Office Lease,3800,Debit,Budget
+2025-09-26,Operating Expenses,Salaries,Engineering Team,21000,Debit,Budget
+2025-09-27,Operating Expenses,Salaries,Sales Team,14500,Debit,Budget
+2025-09-28,COGS,Direct Labor,Contractors,16000,Debit,Budget
+2025-10-15,Revenue,Product Sales,Hardware,75000,Credit,Budget
+2025-10-20,Revenue,Service Revenue,Consulting,28000,Credit,Budget
+2025-10-25,Operating Expenses,Rent,Office Lease,4000,Debit,Budget
+2025-10-28,COGS,Direct Labor,Contractors,16500,Debit,Budget
+2025-11-15,Revenue,Product Sales,Hardware,80000,Credit,Budget
+2025-11-20,Revenue,Service Revenue,Consulting,30000,Credit,Budget
+2025-11-25,Operating Expenses,Rent,Office Lease,4000,Debit,Budget
+2025-11-28,COGS,Direct Labor,Contractors,17000,Debit,Budget
+2025-12-15,Revenue,Product Sales,Hardware,88000,Credit,Budget
+2025-12-20,Revenue,Service Revenue,Consulting,33000,Credit,Budget
+2025-12-25,Operating Expenses,Rent,Office Lease,4000,Debit,Budget
+2025-12-28,COGS,Direct Labor,Contractors,17500,Debit,Budget
